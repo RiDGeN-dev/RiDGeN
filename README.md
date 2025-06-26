@@ -1,2 +1,2 @@
 # RiDGeN
-Tic-Tac-Toe
+Simple game Tic-Tac-Toe, w/ some animations & futures
